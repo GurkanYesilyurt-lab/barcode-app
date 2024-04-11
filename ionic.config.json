@@ -1,0 +1,8 @@
+{
+  "name": "barcode-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "2df48f5e"
+}
